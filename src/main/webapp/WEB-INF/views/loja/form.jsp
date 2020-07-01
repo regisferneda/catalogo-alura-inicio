@@ -8,7 +8,7 @@
 	<body>
 		<nav class="navbar navbar-inverse" role="navigation">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="#">Home</a>
+				<a class="navbar-brand" href="#">Início</a>
 			</div>
 			<div>
 			  	<ul class="nav navbar-nav">
